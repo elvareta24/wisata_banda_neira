@@ -1,0 +1,33 @@
+.gunung {
+    font-size: 25px;
+    color: rgb(28, 121, 28);
+    text-align:justify;
+    line-height: 50px;
+    text-indent: 40px;
+    
+}
+.banda {
+    font-size: 25px;
+    color: rgb(28, 121, 28);
+    text-align:justify;
+    line-height: 50px;
+    text-indent: 40px;
+}
+.a1 {
+    font-size:25px;
+    color: red;
+    text-decoration: none;
+    text-align: left;
+}
+.a2 {
+    font-size:25px;
+    color: rgb(15, 49, 143);
+    text-decoration: none;
+    text-align: right;
+}
+.a3  {
+    font-size:25px;
+    color: rgb(131, 45, 201);
+    text-decoration: none;
+    text-align: right;
+}
