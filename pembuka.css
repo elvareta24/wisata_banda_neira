@@ -1,0 +1,19 @@
+H1 {
+    color: rgb(26, 79, 179);
+}
+a:link {
+    color: rgb(35, 85, 150);
+}
+a:visited {
+    color:rgb(59, 216, 169)
+}
+a:hover {
+    background-color: rgb(15, 123, 150);
+}
+a :active {
+    color: red;
+}
+.selanjutnya {
+    font-size: 20;
+    text-decoration: none;
+}
